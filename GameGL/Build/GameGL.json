@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LearnUnity(Text)",
+"dataUrl": "GameGL.data.unityweb",
+"asmCodeUrl": "GameGL.asm.code.unityweb",
+"asmMemoryUrl": "GameGL.asm.memory.unityweb",
+"asmFrameworkUrl": "GameGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
